@@ -45,21 +45,16 @@ The notebook is organized into the following sections:
    bash
    pip install pandas numpy matplotlib seaborn scipy
    ```
-
    3. Place the dataset:
-   4.
-   5. ```
+   ```
    6. /datasets/novaretail_comportamiento_clientes_2024.csv
     ```
-4. Open the notebook:
-5.
-6. ```
-7. S8 Student Version-Project-NovaRetail.ipynb
-8. ```
+   Open the notebook:
+  ```
+S8 Student Version-Project-NovaRetail.ipynb
+```
 5. Run the notebook from top to bottom.
-6.
-7. ---
-8.
+---
 9. ## Key Findings
   - Customer purchases per month showed the strongest positive relationship with annual revenue.
   - Monthly visits presented a moderate positive association.
