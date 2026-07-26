@@ -1,4 +1,8 @@
-# Explorando-Factores-de-Comportamiento-en-NovaRetail
+# NovaRetail+ Customer Behavior Analysis
+
+🇺🇸 English | 🇪🇸 [Versión en Español](README_ES.md)
+
+---
 
 # 📊 NovaRetail+ | Customer Behavior Analysis 
 
