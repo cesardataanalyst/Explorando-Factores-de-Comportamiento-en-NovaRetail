@@ -69,7 +69,6 @@ Los resultados de las diferentes técnicas fueron comparados e interpretados des
 
 ## Estructura del Proyecto
 
-```
 NovaRetail/
 │
 ├── datasets/
