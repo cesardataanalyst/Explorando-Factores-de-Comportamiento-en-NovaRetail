@@ -191,4 +191,7 @@ S8 Student Version-Project-NovaRetail.ipynb
 5.	Ejecutar el notebook de principio a fin.
 
 ---
+
+## Autor
+Proyecto desarrollado por Cesar Palacio como parte de su formación en Data Analytics, posteriormente reorganizado y documentado para su portafolio profesional en GitHub.
   
