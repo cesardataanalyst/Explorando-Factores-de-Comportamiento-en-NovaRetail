@@ -69,3 +69,5 @@ S8 Student Version-Project-NovaRetail.ipynb
 - Build predictive models for annual revenue.
 - Incorporate additional customer segmentation.
 - Explore causal relationships beyond correlation analysis.
+
+
