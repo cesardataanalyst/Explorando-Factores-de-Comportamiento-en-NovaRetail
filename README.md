@@ -1,4 +1,4 @@
-# NovaRetail+ Customer Behavior Analysis
+# 📊 NovaRetail+ | Customer Behavior Analysis 
 
 🇺🇸 English | 🇪🇸 [Versión en Español](README_ES.md)
 
